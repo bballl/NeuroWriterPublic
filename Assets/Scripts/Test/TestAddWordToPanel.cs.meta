@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90912fc8a091d384cb6cbeed3bffc4a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AllWords: {fileID: 11400000, guid: 380459a3dc157814ebea1c08d9d6c6e1, type: 2}
+  - Prefab: {instanceID: 0}
+  - ParentPanel: {instanceID: 0}
+  - WordsColors: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e49e33108b6b85446a4bd4cfcae5e716, type: 3}
+  m_Name: Letters TUTOR
+  m_EditorClassIdentifier: 
+  Letters:
+  - Name: 1072
+    IsSimetric: 1
+    LeftIcon: {fileID: 21300000, guid: b7e3e16d517738a45bdb0f7d5e0b3747, type: 3}
+    RightIcon: {fileID: 21300000, guid: b7e3e16d517738a45bdb0f7d5e0b3747, type: 3}
+  - Name: 1074
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 445f1ac783ffb154f872fa8463895e37, type: 3}
+    RightIcon: {fileID: 21300000, guid: e04073bacec47e444b2d7c699f58294c, type: 3}
+  - Name: 1075
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 09cebf148fd87de4b9d147cba611cd36, type: 3}
+    RightIcon: {fileID: 21300000, guid: 1419964fb8a6c464bbf32cfe0dbbfe43, type: 3}
+  - Name: 1076
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 15a451c65ccc18d4081bd3df2b970bae, type: 3}
+    RightIcon: {fileID: 21300000, guid: 671e2e5e62854584eba24069fa0ea351, type: 3}
+  - Name: 1077
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: f52fda55f0a355e49adc9708179d0df2, type: 3}
+    RightIcon: {fileID: 21300000, guid: ed834a428785d4440992416dc7d0ace0, type: 3}
+  - Name: 1080
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: d56ef7c8b6e6ff046b5ef7471ffb2230, type: 3}
+    RightIcon: {fileID: 21300000, guid: 3146a50a78401ac4788912ec9f804834, type: 3}
+  - Name: 1084
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 281f281280dab3c488be9eee7571b78f, type: 3}
+    RightIcon: {fileID: 21300000, guid: 138547e65226e714791bf2721dac14df, type: 3}
+  - Name: 1085
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: e7b4f1dbd0c491840b01556ed419b3d4, type: 3}
+    RightIcon: {fileID: 21300000, guid: a14cf1326017ae54484950a1210e2bcb, type: 3}
+  - Name: 1086
+    IsSimetric: 1
+    LeftIcon: {fileID: 21300000, guid: fee1b3c358f58f94aa23b89334bb1cb6, type: 3}
+    RightIcon: {fileID: 21300000, guid: fee1b3c358f58f94aa23b89334bb1cb6, type: 3}
+  - Name: 1087
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 43fc80a59d294594f9e6064a0d593ba0, type: 3}
+    RightIcon: {fileID: 21300000, guid: effa9b5d07a57c947804e93199e145b2, type: 3}
+  - Name: 1088
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: bc088c35643262146b31641fc49eff5a, type: 3}
+    RightIcon: {fileID: 21300000, guid: 3b84423e2f5e3f1498d06479997fe535, type: 3}
+  - Name: 1089
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 8f935d5a09514494d9f7d9aa0c33b6df, type: 3}
+    RightIcon: {fileID: 21300000, guid: 325f0d8b2256b564bbf5f8ed682204c0, type: 3}
+  - Name: 1090
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 75ea6feb05cfb254a86755a3262c5eaa, type: 3}
+    RightIcon: {fileID: 21300000, guid: fcc51ebdf024e2340b1e4e9175ef0320, type: 3}
+  - Name: 1091
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 818d76dc542b9a642a1073cffbd7ab66, type: 3}
+    RightIcon: {fileID: 21300000, guid: c17633392d6662948b17f7c52edfcbbe, type: 3}
+  - Name: 1095
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: c5d7c64c95266184fbbef50f14a04353, type: 3}
+    RightIcon: {fileID: 21300000, guid: 8d4ef5546ce11484bbad80c54fb1c93c, type: 3}
+  - Name: 1098
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: d155898c668a1de4bbf64a31be9ca9a2, type: 3}
+    RightIcon: {fileID: 21300000, guid: 40ac6f29b63ea7f4ebe0f0e7a0004d1d, type: 3}
+  - Name: 1099
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 72d85733bb03d314aa2a9c677e956548, type: 3}
+    RightIcon: {fileID: 21300000, guid: 8ae891a56b6451b4f94f752667b9d5d7, type: 3}
+  - Name: 1100
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: 0012b3c0c4101104f9064aa493b9fbf7, type: 3}
+    RightIcon: {fileID: 21300000, guid: a5758b9f883266647ab10fb1796e2fca, type: 3}
+  - Name: 1101
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: d5e44db2d376659468b9f48277272b22, type: 3}
+    RightIcon: {fileID: 21300000, guid: a9e67f0b38e494348878a835c057a3ae, type: 3}
+  - Name: 1103
+    IsSimetric: 0
+    LeftIcon: {fileID: 21300000, guid: caed2e9571d391d43b26d69225528ffe, type: 3}
+    RightIcon: {fileID: 21300000, guid: fed46f07d0f1db844b4d9154f2347880, type: 3}

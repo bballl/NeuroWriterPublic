@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a71f8f4c88ac2bb40b1dc533dea2736d, type: 3}
+  m_Name: WordsColors
+  m_EditorClassIdentifier: 
+  WordColors:
+  - WordType: 0
+    Color: {r: 1, g: 1, b: 0.33490568, a: 1}
+  - WordType: 1
+    Color: {r: 0.34711802, g: 0.9056604, b: 0.252047, a: 1}
+  - WordType: 2
+    Color: {r: 0, g: 0.5945945, b: 1, a: 1}
+  - WordType: 3
+    Color: {r: 0.6698113, g: 0.48972055, b: 0.5112395, a: 1}
+  - WordType: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+  - WordType: 4
+    Color: {r: 0.38679248, g: 0.38679248, b: 0.38679248, a: 1}

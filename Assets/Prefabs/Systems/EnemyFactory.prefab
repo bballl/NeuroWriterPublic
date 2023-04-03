@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1563541791905635480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1563541791905635482}
+  - component: {fileID: 1563541791905635483}
+  m_Layer: 0
+  m_Name: EnemyFactory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1563541791905635482
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563541791905635480}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1563541791905635483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563541791905635480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9868d95d6c7d7a42aa9053ffaee5005, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _numbersEnemyDatasByMinutes: {fileID: 11400000, guid: c2333106e681f284d9445031c40b9f05, type: 2}
+  _lettersEnemyDatasByMinutes: {fileID: 11400000, guid: 5e4b189b71ae1fb4f9d65f791e87512b, type: 2}
+  _wordsEnemyDatasByMinutes: {fileID: 11400000, guid: e36904eed0596214eb14b6c6331c3026, type: 2}
+  _obligatoryWords: {fileID: 11400000, guid: 2cf3434a824bdf140a9c20f9e7bb9a9d, type: 2}
+  _otherWords: {fileID: 11400000, guid: 8eb5081044292be48bc5053d716b21af, type: 2}
+  _letters: {fileID: 11400000, guid: be3ebe799a8b8f248bbd82dd7530518a, type: 2}
+  _numbers: {fileID: 11400000, guid: 2784879382224cb46b538a0bfb227eaf, type: 2}
+  _enemyData: {fileID: 11400000, guid: 4dd197a18b7376848818f59756ba80f2, type: 2}
+  _enemyNumberPrefab: {fileID: 7150207850974705129, guid: ed5567c895c00684cbf2fc76410f9de1, type: 3}
+  _enemyPrefab: {fileID: 1059855958126328669, guid: a0c830d95a69c4a43b5ca7b39e4d79fc, type: 3}
+  _enemyWordHeadPrefab: {fileID: 4071618366218655257, guid: 843a2950608e3764db9d9e82d264afb6, type: 3}
+  _enemyWordPartPrefab: {fileID: 4071618366218655257, guid: 44bd871dfa053074682e5de0559be227, type: 3}
+  _enemyWordPrefab: {fileID: 2822675446617860295, guid: ff19df606137ffe44867d69cd729a3b9, type: 3}

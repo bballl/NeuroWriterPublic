@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b0113ecb1c7024d83edc4cae0cdfb7, type: 3}
+  m_Name: LettersByMinutes TUTOR
+  m_EditorClassIdentifier: 
+  EnemyType: 1
+  HpMiltyplier: 1.58
+  DamageMiltyplier: 1.1
+  StartHP: 20
+  StartDamage: 15
+  DataByMinutes:
+  - MinuteInGame: 0
+    SpawnCountInSecond: 0.17
+    HP: 20
+    Damage: 15
+  - MinuteInGame: 1
+    SpawnCountInSecond: 0.4
+    HP: 31.6
+    Damage: 16.5
+  - MinuteInGame: 2
+    SpawnCountInSecond: 0.35
+    HP: 49.928
+    Damage: 18.15

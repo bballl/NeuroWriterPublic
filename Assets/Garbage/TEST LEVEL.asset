@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41653518e5d0cc944b5bfcc476caf687, type: 3}
+  m_Name: TEST LEVEL
+  m_EditorClassIdentifier: 
+  LevelProgress:
+  - Lvl: 1
+    NeededExp: 20
+  - Lvl: 2
+    NeededExp: 40
+  - Lvl: 3
+    NeededExp: 60
+  - Lvl: 4
+    NeededExp: 80
+  - Lvl: 5
+    NeededExp: 100
+  - Lvl: 6
+    NeededExp: 120
+  - Lvl: 7
+    NeededExp: 140
+  - Lvl: 8
+    NeededExp: 160
+  - Lvl: 9
+    NeededExp: 180
+  - Lvl: 10
+    NeededExp: 200

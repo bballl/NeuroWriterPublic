@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b0113ecb1c7024d83edc4cae0cdfb7, type: 3}
+  m_Name: LettersByMinutes
+  m_EditorClassIdentifier: 
+  EnemyType: 1
+  HpMiltyplier: 1.58
+  DamageMiltyplier: 1.1
+  StartHP: 50
+  StartDamage: 4
+  DataByMinutes:
+  - MinuteInGame: 0
+    SpawnCountInSecond: 0.6
+    HP: 50
+    Damage: 7
+  - MinuteInGame: 1
+    SpawnCountInSecond: 0.7
+    HP: 75
+    Damage: 7.4900002
+  - MinuteInGame: 2
+    SpawnCountInSecond: 0.8
+    HP: 112.5
+    Damage: 8.0143
+  - MinuteInGame: 3
+    SpawnCountInSecond: 0.9
+    HP: 168.75
+    Damage: 8.575302
+  - MinuteInGame: 4
+    SpawnCountInSecond: 1
+    HP: 253.125
+    Damage: 9.175573
+  - MinuteInGame: 5
+    SpawnCountInSecond: 1.2
+    HP: 379.6875
+    Damage: 9.817864
+  - MinuteInGame: 6
+    SpawnCountInSecond: 1.5
+    HP: 569.53125
+    Damage: 10.5051155
+  - MinuteInGame: 7
+    SpawnCountInSecond: 1.4
+    HP: 854.2969
+    Damage: 11.240474
+  - MinuteInGame: 8
+    SpawnCountInSecond: 2.4
+    HP: 1281.4453
+    Damage: 12.0273075
+  - MinuteInGame: 9
+    SpawnCountInSecond: 1.4
+    HP: 1922.168
+    Damage: 12.86922
+  - MinuteInGame: 10
+    SpawnCountInSecond: 1.4
+    HP: 2883.252
+    Damage: 13.770066

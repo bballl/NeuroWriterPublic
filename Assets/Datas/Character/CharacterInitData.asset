@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3daeb6d37ce08d64aae99f86650fb8c8, type: 3}
+  m_Name: CharacterInitData
+  m_EditorClassIdentifier: 
+  _speed: 3.5
+  _armor: 10
+  _pencilHitPoint: 100
+  _pencilMinDamage: 40
+  _pencilMaxDamage: 60
+  _pencilRechargeTime: 0.25
+  _pencilAttackDistance: 3.5
+  _pencilImpulseValue: 3.1
+  _pencilTargetsNumber: 3
+  _penHitPoint: 90
+  _penMinDamage: 15
+  _penMaxDamage: 25
+  _penRechargeTime: 0.25
+  _penAttackDistance: 20
+  _penAttackRadius: 5
+  _penTargetsNumber: 5
+  _weaponUpdateMultiplier: 1.5
+  _weaponUpdateTime: 60
